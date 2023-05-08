@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-05-06T22:11:30.973Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-05-06T22:11:00.973Z"
+    },
+    {
+      "category": "Programação",
+      "description": "Curso Rocktseet",
+      "price": 2000,
+      "type": "outcome",
+      "createdAt": "2023-05-07T00:22:04.028Z",
+      "id": 3
+    },
+    {
+      "category": "Trabalho",
+      "description": "Salario",
+      "price": 1500,
+      "type": "income",
+      "createdAt": "2023-05-07T00:25:25.632Z",
+      "id": 4
+    },
+    {
+      "category": "Alimentação",
+      "description": "Maça",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2023-05-07T00:33:33.935Z",
+      "id": 5
+    }
+  ]
+}
